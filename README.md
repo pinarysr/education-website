@@ -1,9 +1,9 @@
 # Education Website
 
 ## What I Practice
--Designed using html, scss and css
--Practicing bootstrap
--Responsive project 
+<p>-Designed using html, scss and css</p>
+<p>-Practicing bootstrap</p>
+<p>-Responsive project </p>
 
 ### 'Deploy'
 https://educationwebsitee.netlify.app/
